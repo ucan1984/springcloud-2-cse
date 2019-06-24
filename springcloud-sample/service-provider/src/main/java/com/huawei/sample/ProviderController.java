@@ -26,7 +26,7 @@ public class ProviderController {
 
 	@RequestMapping("/hello/{name}")
 	public String hello(@PathVariable("name") String name) {
-		return "hello " + name;
+		return name;
 	}
 
 	@RequestMapping("/services")
