@@ -4,8 +4,8 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.huawei.sample</groupId>
-	<artifactId>service-consumer</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<artifactId>c</artifactId>
+	<version>0.0.1</version>
 	<packaging>jar</packaging>
 
 	<name>service-consumer</name>
